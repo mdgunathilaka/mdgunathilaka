@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maneesha Gunathilaka
-- 👀 I’m interested in Machine Learning and Embedded Systems
+- 👀 I’m interested in Machine Learning, Blockchain Technology and Embedded Systems
 - 🌱 I’m currently following Computer Science and Engineering (Bsc Eng Hons) at University of Moratuwa
 - 💞️ I’m looking to collaborate on AI related projects.
 <!---
